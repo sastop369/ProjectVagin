@@ -1,0 +1,90 @@
+body {
+    padding-bottom: 20px;
+    background-color: #e5e4e2;
+}
+  
+.navbar {
+    margin-bottom: 20px;
+    background-color: rgb(107, 95, 101);
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    text-align: justify;
+    color:rgb(107, 95, 101);
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    text-align: end;
+    background-color: #a3a88a;
+    color: #e4e4e2;
+    padding-right: 1%;
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+}
+
+ul.dropdown-menu{
+    background-color: #c3b3b4;  
+}
+
+a.dropdown-item:hover{
+    background-color: rgba(137, 119, 129, 0.619);  
+}
+
+h3{
+    font-size: 20px;
+    color: rgb(107, 95, 101);
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    color: rgb(107, 95, 101);
+}
+
+p.card-text{
+    margin-bottom: 3px;
+    font-size: 15px;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+a{
+    color: rgb(107, 95, 101);
+}
+
+a:hover{
+    color: rgb(163, 143, 153);
+    transition: 0.5s;
+}
+
+.img-top{
+    max-width: 95%;
+    display:block;
+    border-radius: 10px;
+    border: 1px solid #c3b3b4;
+    margin-top: 2%;
+}
+
+p.card-footer{
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #6f745c;
+    border-color: #6f745c;
+}
+
+.btn:hover{
+    background-color: #a3a88a;
+    border-color: #a3a88a;
+}
